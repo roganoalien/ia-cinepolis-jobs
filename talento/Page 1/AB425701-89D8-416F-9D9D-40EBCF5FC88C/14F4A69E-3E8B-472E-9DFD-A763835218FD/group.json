@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "do_objectID": "14F4A69E-3E8B-472E-9DFD-A763835218FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "991EA3E8-4D26-4939-98EF-0FC0DF338ACC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E695E9D-B999-4F74-A48E-1BFEA60FD4B6",
+    "height": 52,
+    "width": 210,
+    "x": 40,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "33A08316-0567-4489-989C-C8B16FAFCD4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3BA7004-22C5-4AC8-BFE2-2E6D1CEBFD31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D7F0DAD-E94A-4CB8-9BAF-9D5A9E7CC424"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44E5D99B-3FD0-46C5-A7ED-E39BE051923E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5AE4990C-BBA9-4457-937B-A724B62254BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0FEE9A86-ABAE-4FBC-ABE4-BA41DFDA6C9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C91BCE56-EFA3-4FA4-BA2F-2D24C1BB592D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5238B1E5-7685-4DF1-A624-48880120DD9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24F2094D-A4BC-4263-862E-19FDDEE8E0F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8ED895D-D532-4D18-9080-04D40DAB6D35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E712D958-4F37-4E5D-996D-0197D9411A07"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A16D2055-54D8-41B3-95CD-FD8561B6EE9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98B77C36-9C62-4DB8-AB8B-7D8A747BB2CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4699CE19-9D7D-43B1-9C9F-D1315E63CB70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D222FAF7-4F22-4ABB-9F81-807734437A24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1AC83C2-902C-42A0-9D55-F927A410E9B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8654542A-3C2F-48FB-8D0D-53EC51CA512C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6795029F-5F8D-447A-9ED7-B38F3032D63B"
+    }
+  ],
+  "name": "Logo Cinépolis",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43DC7800-3A7A-4194-A06C-12E32F5E00E5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

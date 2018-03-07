@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "A8E4A15F-4B72-4327-8ADD-2B69B898D182",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 650,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "203D86C9-7EB7-40E7-B8CD-988192E27CF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E94D34C7-2BB0-4DD0-B389-4D67E1EA26CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35C121B9-886C-4E46-B77E-86EF48E0313E"
+    }
+  ],
+  "name": "Filtros",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

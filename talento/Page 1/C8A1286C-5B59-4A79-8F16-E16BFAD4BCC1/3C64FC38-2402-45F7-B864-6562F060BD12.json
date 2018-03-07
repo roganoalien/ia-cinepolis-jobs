@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGlpdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIERIYJSYnKCk1OD5CRk5PUFFSVlpmZ2hpamttbnqGh4qOklUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAIYADgCNvEBUAVAByAGEAYgBhAGoAYQByACAAZQBuACAAQwBpAG4A6QBwAG8AbABpAHPSEwwUF1pOUy5vYmplY3RzohUWgASAHYAg0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgByAG18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYqKywtDC4vMDEyMzJfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHMjQDgAAAAAAACAABACgAqADIAK0hMMNjeggAvSOTo7PFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiOz1YTlNPYmplY3TSOTo/QF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloz9BPV8QEE5TUGFyYWdyYXBoU3R5bGXSDENERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMZEwxHSk2iSEmAD4AQoktMgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQFQAAAAAAABfEBBHcmFwaGlrLVNlbWlib2xk0jk6U1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1NVPVxOU0RpY3Rpb25hcnnSOTpXWF8QEE5TRm9udERlc2NyaXB0b3KiWT1fEBBOU0ZvbnREZXNjcmlwdG9y0xkTDFtgJKRcXV5fgBaAF4AYgBmkYWFhYYAagBqAGoAagBtTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAADSOTpVbKJVPSMAAAAAAAAAANMZEwxvdCSkGxwdHoAFgAaAB4AIpCAhd3iACYANgB6AH4Ab0xkTDHuAJKRcXV5fgBaAF4AYgBmkYWFhYYAagBqAGoAagBsjQAAAAAAAAADSOTqIiV5OU011dGFibGVBcnJheaOIOz3SiwyMjVdOUy5kYXRhRBQAAQGAItI5Oo+QXU5TTXV0YWJsZURhdGGjj5E9Vk5TRGF0YdI5OpOUXxASTlNBdHRyaWJ1dGVkU3RyaW5nopU9XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0ZiZVHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABtAHYAiACVAJwAngCgAKIApADRANYA4QDkAOYA6ADqAPEA+QD+AQABAgEEAQYBCwENAQ8BEQETARUBKAFKAXcBfgGLAaABqwG3AcQB0AHZAdsB3QHfAeEB4wHoAekB6wHwAfsCBAIMAg8CGAIdAjcCOwJOAlMCcAJyAnQCewJ+AoACggKFAocCiQKLAqECtwLAAtMC2ALuAvIC/wMEAxcDGgMtAzQDOQM7Az0DPwNBA0YDSANKA0wDTgNQA1QDWgNfA2UDbgNzA3YDfwOGA4sDjQOPA5EDkwOYA5oDnAOeA6ADogOpA64DsAOyA7QDtgO7A70DvwPBA8MDxQPOA9MD4gPmA+sD8wP4A/oD/wQNBBEEGAQdBDIENQRKBFwEXwRkAAAAAAAAAgEAAAAAAAAAmgAAAAAAAAAAAAAAAAAABGY="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3C64FC38-2402-45F7-B864-6562F060BD12",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 820,
+    "x": 310,
+    "y": 285
+  },
+  "glyphBounds": "{{1, 5}, {815, 77}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Trabajar en Cinépoli",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "08A6C71C-9CA6-4637-815D-246ABDA95B85"
+  },
+  "textBehaviour": 0
+}

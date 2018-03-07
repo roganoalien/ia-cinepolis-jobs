@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "0AC92C76-57EF-4FA6-BF47-3FFB81FFB307",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF9AEDED-D244-4B2B-A077-829D1416F56F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EFEAF115-E852-469D-A662-7E94C9D1A4C6",
+    "height": 12,
+    "width": 369,
+    "x": 1029,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6F0841FE-3D14-4F04-ADEA-AA6988ADAD67"
+    },
+    {
+      "class": "text",
+      "id": "7D022548-FBF1-4D44-8883-29731667F585"
+    },
+    {
+      "class": "text",
+      "id": "E31550E5-5CE7-4A9B-81DB-4A94067FC05B"
+    },
+    {
+      "class": "text",
+      "id": "69A29E47-3532-4CEB-9352-1EAEFF658CB6"
+    }
+  ],
+  "name": "Menú",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13BE7565-5ADE-4AD2-AC56-D727241D3778",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

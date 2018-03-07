@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "CFC03B7C-BEAF-49EB-A16A-565AF1206182",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E44AAC54-B713-410B-95F7-3C700EB0ACA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B76D0FD1-1BD2-4BB9-80E0-581161CEA4ED",
+    "height": 50,
+    "width": 650,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9245F3D9-3ABD-4319-A3CF-9E612739C874"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD011B0A-950D-4668-A519-8AE21EB8F252"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16CBF4DD-F6EF-451D-80D5-D82BDF11159B"
+    }
+  ],
+  "name": "Filtros",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A737EB64-1772-4E08-8119-61E63A00409A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

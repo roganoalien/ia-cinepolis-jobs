@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "83AFE51A-52D1-49E8-A7AA-F72595FD84BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31BC381E-F61F-45BB-AA44-52FABFA12763",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDD37C10-B139-4576-A529-CB9564894B04",
+    "height": 50,
+    "width": 180,
+    "x": 680,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CEAC483E-C534-4994-9519-7E4AF41507C5"
+    },
+    {
+      "class": "text",
+      "id": "31544C59-93A6-45C8-B7C5-E96A451A0981"
+    }
+  ],
+  "name": "Buscar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AC71011-9056-4E0F-910D-6451FFAB9B04",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

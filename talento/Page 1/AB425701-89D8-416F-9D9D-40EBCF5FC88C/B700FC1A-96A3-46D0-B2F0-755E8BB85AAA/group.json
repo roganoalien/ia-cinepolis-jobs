@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "B700FC1A-96A3-46D0-B2F0-755E8BB85AAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 365,
+    "width": 860,
+    "x": 290,
+    "y": 182
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E8E92A38-7937-4228-9486-C9A1CDD09243"
+    },
+    {
+      "class": "text",
+      "id": "D585CF25-01EE-4F74-BE36-8D08C50073A3"
+    },
+    {
+      "class": "text",
+      "id": "17021001-21A9-438B-AAA1-A7D3AD86FE51"
+    },
+    {
+      "class": "group",
+      "id": "8BDD8761-6CC8-4A9B-8C52-047E945DFBE9"
+    }
+  ],
+  "name": "Buscador",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

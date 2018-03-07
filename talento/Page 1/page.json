@@ -1,0 +1,114 @@
+{
+  "_class": "page",
+  "do_objectID": "F6B21C91-BA98-480C-9F0C-66FEE4FE9980",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "C8A1286C-5B59-4A79-8F16-E16BFAD4BCC1"
+    },
+    {
+      "class": "artboard",
+      "id": "40F6433C-F1C9-49B8-A18E-554242BB80A7"
+    },
+    {
+      "class": "artboard",
+      "id": "AB425701-89D8-416F-9D9D-40EBCF5FC88C"
+    },
+    {
+      "class": "artboard",
+      "id": "BB469463-E063-4F76-8131-ABB49666342A"
+    },
+    {
+      "class": "artboard",
+      "id": "B683CF77-AB02-4EF1-A8DB-D09730ACD329"
+    },
+    {
+      "class": "artboard",
+      "id": "73BE6178-A1D1-4807-9583-DB8D81C22A86"
+    },
+    {
+      "class": "bitmap",
+      "id": "3C985DC3-2DBD-4368-9501-B2F33AC67CC2"
+    },
+    {
+      "class": "bitmap",
+      "id": "30716895-BB13-4644-A74C-0D9743D2892A"
+    },
+    {
+      "class": "bitmap",
+      "id": "A916A9AA-6B85-4625-9672-7CB889F0DE4A"
+    },
+    {
+      "class": "bitmap",
+      "id": "A62C071F-3B5E-4C05-9E37-6808C7427EF5"
+    },
+    {
+      "class": "bitmap",
+      "id": "4C5DEF0C-C6FB-4434-A37C-9A089E21B011"
+    },
+    {
+      "class": "bitmap",
+      "id": "81F39776-6AB8-4054-9993-988E763A7901"
+    },
+    {
+      "class": "bitmap",
+      "id": "D737D32E-0538-42AA-ABB8-2F305297D034"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC89CE8B-3AA5-40D9-A30A-B2B8AC80B1B4"
+    },
+    {
+      "class": "bitmap",
+      "id": "F0245911-74EB-47A2-A2A7-438412F51A30"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

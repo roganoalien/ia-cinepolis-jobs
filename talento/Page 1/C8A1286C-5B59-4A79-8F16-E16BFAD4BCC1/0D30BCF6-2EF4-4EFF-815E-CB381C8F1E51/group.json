@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "0D30BCF6-2EF4-4EFF-815E-CB381C8F1E51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89D5A17D-FDCB-4AE9-A74A-F99A936D36DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABC6A0A3-6E2F-492B-96B4-745AB4192ABE",
+    "height": 50,
+    "width": 329,
+    "x": 916,
+    "y": 1795
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D357F13A-7448-472F-A4B4-8BF3A1F97A89"
+    },
+    {
+      "class": "text",
+      "id": "D4902FE5-557A-4D81-A455-C3E3A21CD768"
+    }
+  ],
+  "name": "Buscar Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "683EB5AA-31EC-4684-A604-68C61815D926",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
