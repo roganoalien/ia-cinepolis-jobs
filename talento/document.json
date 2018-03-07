@@ -44,9 +44,47 @@
         "blue": 0.4581473214285715,
         "green": 0.4581473214285715,
         "red": 0.4581473214285715
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8056707057823129,
+        "green": 0.8056707057823129,
+        "red": 0.8056707057823129
       }
     ],
     "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 1}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8352941176470589,
+              "green": 0.5411764705882354,
+              "red": 0.5333333333333332
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8745098039215686,
+              "green": 0.6588235294117648,
+              "red": 0.6352941176470587
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0}"
+      }
     ],
     "imageCollection": {
       "_class": "imageCollection",
@@ -71,7 +109,8 @@
     "version": 101
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

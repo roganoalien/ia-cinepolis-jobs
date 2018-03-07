@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "57B7FF32-A652-4179-BE02-CD647D53A3E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2152F8D-3E84-4DAE-AC0C-7898BF00B2FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6F55D74-1B36-4A9F-B93A-D96C96781A5E",
+    "height": 42,
+    "width": 42,
+    "x": 212,
+    "y": 746
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6C639D59-D115-4467-BA00-FCCEE1DB0AE5"
+    }
+  ],
+  "name": "team copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4849CE4F-7FEC-4F05-8EEC-B46E0A11DC5A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
